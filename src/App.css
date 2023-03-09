@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+#btn{
+width: 150px;
+}
+
+#textfor{
+  margin: 30px;
+  font-size: 30px;
+}
+
+#card{
+  border: none;
+}
+
+#title{
+  font-size: 40px;
+}
